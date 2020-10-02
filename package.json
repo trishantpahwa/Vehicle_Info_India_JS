@@ -1,0 +1,29 @@
+{
+  "name": "vehicle_info_india_js",
+  "version": "1.0.0",
+  "description": "A wrapper for Vehicle_Info_India_API(https://shrouded-falls-48764.herokuapp.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trishantpahwa/Vehicle_Info_India_JS.git"
+  },
+  "keywords": [
+    "VehicleInfoIndia",
+    "VehicleRegisteration"
+  ],
+  "author": "Trishant Pahwa",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/trishantpahwa/Vehicle_Info_India_JS/issues"
+  },
+  "homepage": "https://github.com/trishantpahwa/Vehicle_Info_India_JS#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
