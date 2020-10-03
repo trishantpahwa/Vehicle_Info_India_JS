@@ -2,9 +2,6 @@ const { get } = require("axios");
 
 class VehicleInfo {
 
-    reg = '';
-    api_key = '';
-    
     constructor(api_key) {
         this.api_key = api_key;
     }
